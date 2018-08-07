@@ -12,6 +12,6 @@
   </head>
   <body>
   <span>1425132132</span>
-  $END$
+  <span>1425132132</span>
   </body>
 </html>
